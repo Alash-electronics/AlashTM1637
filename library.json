@@ -1,8 +1,8 @@
 {
   "name": "AlashTM1637",
-  "version": "1.0.1",
-  "description": "Easy TM1637 4-digit display library: numbers, floats, clock, text, scroll, brightness, clear tips (ru/kk/en), no dependencies",
-  "keywords": "TM1637, 7 segment, display, clock, 4 digit, number, LED display",
+  "version": "1.1.0",
+  "description": "Easy TM1637 4- and 6-digit display library: numbers, floats, clock, text, scroll, brightness, clear tips (ru/kk/en), no dependencies",
+  "keywords": "TM1637, 7 segment, display, clock, 4 digit, 6 digit, number, LED display",
   "repository": {
     "type": "git",
     "url": "https://github.com/Alash-electronics/AlashTM1637"
