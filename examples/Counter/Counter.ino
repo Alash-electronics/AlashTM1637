@@ -1,5 +1,9 @@
-// AlashTM1637: счётчик нажатий. Каждое нажатие кнопки на пине 4 (второй контакт на GND) добавляет единицу к числу на дисплее.
-// Для надёжных нажатий без дребезга используйте библиотеку AlashButton.
+// [ru] AlashTM1637: счётчик нажатий. Каждое нажатие кнопки на пине 4 (второй контакт на GND) добавляет единицу к числу на дисплее.
+//      Для надёжных нажатий без дребезга используйте библиотеку AlashButton.
+// [kk] AlashTM1637: басу санауышы. 4 пиндегі батырманы әр басқан сайын дисплейдегі санға бір қосылады.
+//      Діріліссіз сенімді басу үшін AlashButton кітапханасын қолданыңыз.
+// [en] AlashTM1637: a press counter. Every press of the button on pin 4 (the other contact to GND) adds one to the number on the display.
+//      For reliable presses without bounce use the AlashButton library.
 #include <AlashTM1637.h>
 
 AlashTM1637 display(2, 3);
